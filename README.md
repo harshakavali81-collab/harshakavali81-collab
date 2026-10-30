@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kavali Harshavardhan
 
-<!--
-**harshakavali81-collab/harshakavali81-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**2025 B.Tech ECE graduate | IT Fresher | Data Analyst | Python | SQL | Power BI | Applied AI**
 
-Here are some ideas to get you started:
+I'm seeking entry-level IT opportunities, especially **Data Analyst, Python Developer, Junior Software Engineer, BI Analyst and junior AI/ML** roles. I'm based in Hyderabad and also considering Bengaluru opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education:** B.Tech Electronics & Communication Engineering, CMR Institute of Technology, Hyderabad (2025); First Class, 7.03/10 CGPA as shown on my consolidated grade sheet.
+- **Internship:** Python Intern, Edugene Technologies (Feb-Aug 2025); programming, data handling, debugging and automation exercises.
+- **Technologies:** Python, Pandas, NumPy, SQL/MySQL, Excel, Power BI, scikit-learn, NLP/RAG, FastAPI, Git and GitHub.
+- **Learning:** AWS Academy Cloud Developing and Data Engineering; EduSkills virtual internships in Google AI-ML, Android and Blue Prism automation. These are educational training, not professional cloud certifications or employment.
+- **Portfolio:** https://harshakavali81-collab.github.io/harshavardhan-portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/kavali-harshavardhan-7ab93a28b/
+- **Email:** kavaliharshavardhan98@gmail.com
+
+## Selected projects
+
+| Project | What I built / studied | Source |
+|---|---|---|
+| Multilingual Indian Language Knowledge Base | React + FastAPI document indexing, language-aware retrieval, optional LaBSE/LLM and local fallback | [Repository](https://github.com/harshakavali81-collab/Multilingual-Project) |
+| Banking & Financial Performance Analytics | Synthetic banking data, SQL reconciliation, Python analysis, Excel and an offline dashboard | [Repository](https://github.com/harshakavali81-collab/Banking-Financial-Performance-Analytics) |
+| SupportLens AI | Source-cited support answers, a browser demo, FastAPI and privacy-aware analytics using fictional policies | [Repository](https://github.com/harshakavali81-collab/Generative-AI-Customer-Support-Analytics) |
+| TransactionShield | Synthetic-data fraud-risk scoring with a Python ML pipeline, FastAPI and React | [Repository](https://github.com/harshakavali81-collab/TransactionShield-a-Real-Time-Fraud-Detection-and-Risk-Scoring-Platform.) |
+
+[Read detailed recruiter case studies](https://harshakavali81-collab.github.io/harshavardhan-portfolio/flagship-projects.html) | [Explore all 51 portfolio entries](https://harshakavali81-collab.github.io/harshavardhan-portfolio/linkedin-projects.html) | [Resumes](https://harshakavali81-collab.github.io/harshavardhan-portfolio/resumes.html)
+
+## How I approach projects
+
+I start from a concrete question, document the dataset or requirements, build a reproducible prototype, test the important paths, and clearly label any experimental limitations. Some demonstrations are synthetic or local-only and **are not production services**.
+
+## For recruiters
+
+I am an **IT fresher seeking entry-level work**. Please use the contact details above or my portfolio's [contact page](https://harshakavali81-collab.github.io/harshavardhan-portfolio/contact.html). My portfolio links the source code, case studies, resumes, education and supplied training summaries.
+
